@@ -29,4 +29,5 @@ Aşağıda göstərilmiş şəkillərə uyğun olaraq Css-Grid qurun
 ![Image of task result](./task5.png)
 
 
+:copyright: **huseynovelmir**
 
